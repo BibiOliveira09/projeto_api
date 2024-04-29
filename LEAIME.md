@@ -11,3 +11,6 @@ Passo a passo para configurar o git remote para sincronizar com o GitHub:
 Passo 1: Crie um Repositório no GitHub:
    - Acesse o GitHub e clique em "New repository" para criar um novo repositório.
    - Dê um nome ao repositório e clique em "Create repository".
+
+Passo 2: Abra o Terminal:
+   - Abra o terminal no seu computador.
