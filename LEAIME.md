@@ -48,3 +48,8 @@ Passo 8: Envie seus Arquivos para o GitHub:
 Passo 9: Autenticação no GitHub:
    - Se solicitado, insira seu nome de usuário e senha do GitHub.
 
+Passo 10: Verifique seu Repositório no GitHub:
+    - Volte para o GitHub e verifique se seus arquivos foram sincronizados corretamente.
+
+    
+
