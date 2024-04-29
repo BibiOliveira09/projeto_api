@@ -14,3 +14,8 @@ Passo 1: Crie um Repositório no GitHub:
 
 Passo 2: Abra o Terminal:
    - Abra o terminal no seu computador.
+
+Passo 3: 3. Navegue até o Diretório do seu Projeto:
+   - Use o comando cd para navegar até o diretório do seu projeto.
+
+
