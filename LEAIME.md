@@ -33,3 +33,8 @@ Passo 6: Adicione o URL Remoto do GitHub:
      
      git remote add origin URL_do_seu_repositório_no_github
 
+Passo 7: Verifique o Repositório Remoto:
+   - Verifique se o repositório remoto foi adicionado corretamente usando o comando:
+     
+     git remote -v
+
