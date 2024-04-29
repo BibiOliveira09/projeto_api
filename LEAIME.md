@@ -38,3 +38,10 @@ Passo 7: Verifique o Repositório Remoto:
      
      git remote -v
 
+Passo 8: Envie seus Arquivos para o GitHub:
+   - Adicione seus arquivos ao commit usando o comando git add ..
+   - Faça um commit dos arquivos usando o comando git commit -m "Mensagem do commit".
+   - Envie os arquivos para o GitHub usando o comando:
+     
+     git push -u origin master
+
