@@ -20,3 +20,9 @@ Passo 3: 3. Navegue até o Diretório do seu Projeto:
 
 Passo 4: Inicialize o Repositório Git:
    - Se o seu projeto ainda não é um repositório Git, inicialize-o usando o comando git init.
+
+Passo 5: Configure as Credenciais do Git:
+   - Configure seu nome de usuário e endereço de e-mail no Git usando os comandos:
+     
+     git config --global user.name "Seu Nome"
+     git config --global user.email "seu@email.com"
