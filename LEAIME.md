@@ -45,3 +45,6 @@ Passo 8: Envie seus Arquivos para o GitHub:
      
      git push -u origin master
 
+Passo 9: Autenticação no GitHub:
+   - Se solicitado, insira seu nome de usuário e senha do GitHub.
+
