@@ -18,4 +18,5 @@ Passo 2: Abra o Terminal:
 Passo 3: 3. Navegue até o Diretório do seu Projeto:
    - Use o comando cd para navegar até o diretório do seu projeto.
 
-
+Passo 4: Inicialize o Repositório Git:
+   - Se o seu projeto ainda não é um repositório Git, inicialize-o usando o comando git init.
