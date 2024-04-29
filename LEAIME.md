@@ -26,3 +26,10 @@ Passo 5: Configure as Credenciais do Git:
      
      git config --global user.name "Seu Nome"
      git config --global user.email "seu@email.com"
+
+Passo 6: Adicione o URL Remoto do GitHub:
+   - No GitHub, encontre o URL do seu repositório e copie-o.
+   - No terminal, adicione o URL remoto usando o comando:
+     
+     git remote add origin URL_do_seu_repositório_no_github
+
